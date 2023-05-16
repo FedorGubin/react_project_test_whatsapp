@@ -36,7 +36,6 @@ const Chat = () => {
       }
     } catch (error) {
       console.error("Error sending message:", error);
-      console.error("Error sending message:", error);
     }
   };
 
