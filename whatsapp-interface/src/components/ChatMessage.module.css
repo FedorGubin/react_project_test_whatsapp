@@ -1,0 +1,16 @@
+.chat-message {
+    margin-bottom: 10px;
+  }
+  
+  .chat-message p {
+    margin: 0;
+  }
+  
+  .chat-message .sender {
+    font-weight: bold;
+  }
+  
+  .chat-message .date {
+    font-size: 0.8em;
+    color: #999;
+  }
